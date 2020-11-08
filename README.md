@@ -1,7 +1,7 @@
 # Stock-Market-Analysus
 Analysis of 2020's S&amp;P 500 Stocks 
 
-## What is your issue of interest (provide sufficient background information)?
+## What is your issue of interest ?
 My research interest for Individual Project is Stoct Market Anlaysis on S&P 500(Standard and Poor’s 500)Index Companies.
 
 ## Why is this issue important to you and/or to others?
