@@ -1,4 +1,4 @@
-# Stock-Market-Analysus
+# Stock-Market-Analysis
 Analysis of 2020's S&amp;P 500 Stocks 
 
 ## What is your issue of interest ?
