@@ -18,8 +18,8 @@ I have recently started studying stock market finance data, I am really curious 
 ## Where do you get the data to help answer your questions?
 Reading stock data from Yahoo using Yahoo Finance API. For this we have to use a python library called yfinance.Yahoo Finance API provides access to more than five years of daily OHLC price data. Also, you can get minutes OHLC data for recent days.Using the Yahoo API (without authentication), you are limited to 2,000 requests per hour per IP or up to a total of 48,000 requests a day.
  
-## What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units do you expect to analyze?
-I am planning to do my analysis on US Stock Market data for Standard and Poor’s 500(S&P 500) Index Companies based on atleast one year stock data till date.
+## What will be your unit of analysis? Roughly how many units do you expect to analyze?
+I am planning to do my analysis on US Stock Market data for Standard and Poor’s 500(S&P 500) Index Companies based on 5 years of stock data till date.
 
 ## What variables/measures do you plan to use in your analysis?
 - Earnings per share (EPS), 
@@ -29,5 +29,5 @@ I am planning to do my analysis on US Stock Market data for Standard and Poor’
 - Dividend payout ratio (DPR),  
 - Dividend yield
 
-## What kinds of techniques do you you plan to use (for example, summary statistics, scatter plot, bar chart, chi-squared test)?
+## What kinds of techniques do you you plan to use?
 I am planning to use Line charts, Bar Charts & Correlation Plots along with summary statstics in my analysis.
